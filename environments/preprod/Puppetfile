@@ -1,0 +1,4 @@
+mod 'puppet-nginx',
+  :git => 'https://github.com/gamerton/testgitr10k.git',
+  :ref => 'dev',
+  :install_path => 'modules/puppet-nginx'
