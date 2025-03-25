@@ -1,5 +1,5 @@
 
-node 'ecs-test-test-0001.zvq.me' {
+node 'ecs-test-test-0001.zvq.me.zvq.me' {
     include nginx
     nginx::resource::server { 'kibana.myhost.com':
     listen_port => 80,
